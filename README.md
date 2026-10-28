@@ -246,6 +246,6 @@ The project provided practical experience with npm, server execution, HTTP reque
 
 **Current Status:** Not deployed yet.
 
-**Public Deployment URL:** To be added after successful deployment.
+**Public Deployment URL:** https://github.com/csahithi123-png/C.Sahithi.
 
 After deploying the application, replace the deployment status and URL at the top of this README with the actual public deployment link. If deployment is not possible, follow the alternative instructions specified in the lab document.
