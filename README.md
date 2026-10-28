@@ -181,19 +181,23 @@ The following screenshots are stored in the `screenshots/` folder and demonstrat
 
 ### 8.1 Home Endpoint
 
-![Home Endpoint](screenshots/Home.png)
+<img width="2880" height="950" alt="Home" src="https://github.com/user-attachments/assets/0b918e4a-8da4-4525-871c-e6f74346e236" />
+
 
 ### 8.2 About Endpoint
 
-![About Endpoint](screenshots/About.png)
+<img width="2880" height="696" alt="About" src="https://github.com/user-attachments/assets/a84643de-71cd-4f14-afd8-d7a82c009d49" />
+
 
 ### 8.3 Time Endpoint
 
-![Time Endpoint](screenshots/Time.png)
+<img width="2880" height="644" alt="Time" src="https://github.com/user-attachments/assets/75833445-0480-4155-b8e6-3894c255cd3e" />
+
 
 ### 8.4 Unknown Route – 404 Response
 
-![Unknown Route – 404 Response](screenshots/Unknown.png)
+<img width="2880" height="854" alt="Unknown" src="https://github.com/user-attachments/assets/0c55887b-9b18-4957-9750-b0522a06aae9" />
+
 
 ## 9. Testing
 
