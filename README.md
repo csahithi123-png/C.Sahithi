@@ -1,8 +1,8 @@
 # BDF Lab 01 – Node.js and Express Server
 
-**Deployment URL:** Not deployed yet
+**Deployment URL:** https://github.com/csahithi123-png/C.Sahithi
 
-**Deployment Note:** Public deployment has not been completed yet. The application is being tested locally using a web browser. Screenshots of the four Express endpoints are included below.
+**Deployment Note:** The application is being tested locally using a web browser. Screenshots of the four Express endpoints are included below.
 
 **Student Name:** C.Sahithi  
 **Registration Number:** 252U1R1008
